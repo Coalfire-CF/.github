@@ -4,17 +4,17 @@
 
 ## About Us
 
-Coalfire is a leading cybersecurity firm specializing in FedRAMP. With X years of experience we have been providing businesses with FedRAMP assessment, advisory and engineering services. We are a FedRAMP 3PAO and have worked with X% of the FedRAMP marketplace.
+Coalfire is a leading cybersecurity firm specializing in FedRAMP. With X years of experience we have been providing businesses with FedRAMP assessment, advisory and engineering services. Leveraging knowledge gained from providing FedRAMP audit and advisory services to more than 200 cloud service providers, Coalfire has developed a suite of tools and services to help organizations achieve and maintain FedRAMP compliance.
 
 ## Our RAMP/pak Solutions
 
-Our Project Acceleration Kits are designed to [BRIEF DESCRIPTION OF WHAT THE PAKs DO]. These kits provide:
+Our Project Acceleration Kits are designed to enable CSP's on the first step of their FedRAMP journey. These kits provide:
 
-- Feature A: Description of the feature.
-- Feature B: Description of the feature.
-- Feature C: Description of the feature.
+- Reusable Terraform: Terraform modules that can be used to deploy a FedRAMP moderate compliant components.
+- Cloud Specific Expertise:  Cloud specific expertise to help CSP's understand the nuances of FedRAMP compliance across AWS, Azure, and GCP.
+- Documentation Templates: Documentation templates that can be used to help CSP's understand the documentation requirements for FedRAMP. Accelerated with the use of our Terraform paks.
 
-[Link to more detailed documentation or a repository dedicated to PAKs]
+[https://www.coalfire.com/opensource](https://www.coalfire.com/opensource)
 
 ## Resources
 
