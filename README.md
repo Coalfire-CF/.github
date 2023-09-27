@@ -2,8 +2,6 @@
 <img src="./profile/CoalfireLogo-Reg_Color.png">
 </div>
 
-# Coalfire
-
 ## About Us
 
 Coalfire is a leading cybersecurity firm specializing in FedRAMP. With X years of experience we have been providing businesses with FedRAMP assessment, advisory and engineering services. We are a FedRAMP 3PAO and have worked with X% of the FedRAMP marketplace.
