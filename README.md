@@ -2,16 +2,13 @@
 <img src="./profile/CoalfireLogo-Reg_Color.png">
 </div>
 
-
 # Coalfire
-
-![Coalfire Banner](URL_TO_A_BANNER_IMAGE_IF_YOU_HAVE_ONE)
 
 ## About Us
 
 Coalfire is a leading cybersecurity firm specializing in FedRAMP. With X years of experience we have been providing businesses with FedRAMP assessment, advisory and engineering services. We are a FedRAMP 3PAO and have worked with X% of the FedRAMP marketplace.
 
-## Our RAMP/paks Solutions
+## Our RAMP/pak Solutions
 
 Our Project Acceleration Kits are designed to [BRIEF DESCRIPTION OF WHAT THE PAKs DO]. These kits provide:
 
@@ -23,9 +20,8 @@ Our Project Acceleration Kits are designed to [BRIEF DESCRIPTION OF WHAT THE PAK
 
 ## Resources
 
-- **Documentation:** Dive into our extensive documentation to understand our offerings better – [Link to Documentation].
-- **Tutorials:** Learn how to utilize our solutions effectively with our step-by-step guides – [Link to Tutorials].
-- **Webinars:** Join our webinars to get insights directly from our experts – [Link to Webinar Schedule].
+- **Documentation:** Dive into our extensive documentation to understand our offerings better – [https://coalfire.com/opensource]].
+- **Webinars:** Join our webinars to get insights directly from our experts – [https://www.coalfire.com/insights/resources?type=f-webinar].
 
 ## More Information
 
@@ -41,4 +37,4 @@ Our Project Acceleration Kits are designed to [BRIEF DESCRIPTION OF WHAT THE PAK
 
 ## Support
 
-For any issues or inquiries, please open a [GitHub issue](LINK_TO_YOUR_ISSUES_PAGE) or contact our support team at [support@coalfire.com](mailto:support@coalfire.com).
+For any issues or inquiries, please open a [GitHub issue](https://github.com/Coalfire-CF/.github/issues) or contact our support team at [OSS@coalfire.com](mailto:OSS@coalfire.com).
