@@ -6,11 +6,11 @@
 
 Coalfire is a leading cybersecurity firm specializing in FedRAMP. With 9 years dedicated to FedRAMP, we've empowered businesses through our comprehensive FedRAMP assessment, advisory, and engineering services. Drawing from our experience of providing FedRAMP audit and advisory services to over 200 cloud service providers, Coalfire proudly offers a suite of innovative tools and services tailored to ensure and sustain FedRAMP compliance.
 
-## Our FedRAMP Acceleration Kits
+## Our RAMP/paks
 
-Designed as a launchpad for Cloud Service Providers (CSPs) embarking on their FedRAMP journey, our acceleration kits offer:
+Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their FedRAMP journey, our RAMP/paks offer:
 
-- **Reusable Terraform**: Modules designed to facilitate the deployment of FedRAMP moderate compliant components.
+- **Reusable Terraform**: Modules designed to facilitate the deployment of FedRAMP components.
 - **Cloud-Specific Expertise**: Tailored guidance to navigate the unique FedRAMP compliance landscape across AWS, Azure, and GCP.
 - **Documentation Templates**: Ready-to-use templates streamlining FedRAMP documentation, further accelerated through our Terraform kits.
 
@@ -35,3 +35,9 @@ Designed as a launchpad for Cloud Service Providers (CSPs) embarking on their Fe
 ## Support
 
 For issues or inquiries, kindly raise a [GitHub issue](https://github.com/Coalfire-CF/.github/issues) or email our support team at [OSS@coalfire.com](mailto:OSS@coalfire.com).
+
+### Disclaimer
+
+The information, tools, and resources provided on this page are for general informational purposes only and are not intended as, and shall not be understood or construed as, professional advice, endorsement, or recommendations. While we strive to provide accurate, up-to-date content, Coalfire makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information provided. Any reliance you place on such information is therefore strictly at your own risk. Users are advised to seek their own legal or professional advice relevant to their individual circumstances.
+
+Coalfire does not warrant that the usage of any tools or templates will guarantee compliance or security outcomes, and all users are advised to ensure any solutions implemented align with their own risk profile and compliance requirements.
