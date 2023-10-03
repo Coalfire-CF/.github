@@ -11,6 +11,9 @@ Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their
 - **Documentation Templates**: Ready-to-use templates streamlining FedRAMP documentation, further accelerated through our Terraform kits.
 
 [Discover More](https://www.coalfire.com/opensource)
+[AWS RAMP/pak](https://github.com/Coalfire-CF/Coalfire-AWS-RAMPpak)
+[Azure RAMP/pak](https://github.com/Coalfire-CF/Coalfire-Azure-RAMPpak)
+[GCP RAMP/pak](https://github.com/Coalfire-CF/Coalfire-GCP-RAMPpak)
 
 ## Resources
 
@@ -25,7 +28,7 @@ Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their
 
 ## Support
 
-For issues or inquiries,  [GitHub issue](https://github.com/Coalfire-CF/.github/issues) or email our support team at [OSS@coalfire.com](mailto:OSS@coalfire.com).
+For issues,  [GitHub issue](https://github.com/Coalfire-CF/.github/issues) or email our team at [OSS@coalfire.com](mailto:OSS@coalfire.com).
 
 Need something more?
 RAMP/pak+ combines open-source code with our expert-facilitated services to help you navigate the complexities of the FedRAMP ecosystem – enabling you to optimize your investment, time, and resources from the start.
