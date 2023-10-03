@@ -33,7 +33,8 @@ Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their
 
 For issues,  [GitHub issue](https://github.com/Coalfire-CF/.github/issues) or email our team at [OSS@coalfire.com](mailto:OSS@coalfire.com).
 
-Need something more?
+### Need something more?
+
 RAMP/pak+ combines open-source code with our expert-facilitated services to help you navigate the complexities of the FedRAMP ecosystem – enabling you to optimize your investment, time, and resources from the start.
 
 RAMP/pak+ provides a user-friendly roadmap that includes a clear breakdown of your go-to-market strategy, alignment with requirements, and essential technical reference architecture – all supported by Coalfire's expert team. [Learn more](https://coalfire.com/services/fedramp/fedramp-advisory).
