@@ -1,6 +1,5 @@
-<div align="center">
-<img src="./profile/CoalfireLogo-Reg_Color.png">
-</div>
+![Coalfire](coalfire_logo.png)
+
 
 ## About Us
 
