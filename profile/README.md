@@ -1,8 +1,9 @@
 ![Coalfire](coalfire_logo.png)
 
+
 ## About Us
 
-Coalfire is a leading cybersecurity firm specializing in FedRAMP. With 9 years dedicated to FedRAMP, we've empowered businesses through our comprehensive FedRAMP assessment, advisory, and engineering services. Drawing from our experience of providing FedRAMP audit and advisory services to over 200 cloud service providers, Coalfire proudly offers a suite of innovative tools and services tailored to ensure and sustain FedRAMP compliance.
+Coalfire is a leading cybersecurity firm specializing in FedRAMP. We empower businesses through our comprehensive FedRAMP assessment, advisory, and engineering services. Drawing from our experience of providing FedRAMP audit and advisory services to over 200 cloud service providers, Coalfire proudly offers a suite of innovative tools and services tailored to ensure and sustain FedRAMP compliance.
 
 ## Our RAMP/paks
 
