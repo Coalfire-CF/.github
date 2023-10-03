@@ -10,7 +10,7 @@ Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their
 - **Cloud-Specific Expertise**: Tailored guidance to navigate the unique FedRAMP compliance landscape across AWS, Azure, and GCP.
 - **Documentation Templates**: Ready-to-use templates streamlining FedRAMP documentation, further accelerated through our Terraform kits.
 
-[Discover More](https://www.coalfire.com/opensource)
+### Discover our RAMP/paks below:
 
 - [AWS RAMP/pak](https://github.com/Coalfire-CF/Coalfire-AWS-RAMPpak)
 
