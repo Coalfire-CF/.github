@@ -2,7 +2,7 @@
 
 Coalfire is a leading cybersecurity firm specializing in FedRAMP. We empower businesses through our comprehensive FedRAMP assessment, advisory, and engineering services. Drawing from our experience of providing FedRAMP audit and advisory services to over 200 cloud service providers, Coalfire proudly offers a suite of innovative tools and services tailored to ensure and sustain FedRAMP compliance.
 
-## Our RAMP/paks
+## RAMP/pak®
 
 Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their FedRAMP journey, our RAMP/paks offer:
 
@@ -10,13 +10,13 @@ Designed as an accelerator for Cloud Service Providers (CSPs) embarking on their
 - **Cloud-Specific Expertise**: Tailored guidance to navigate the unique FedRAMP compliance landscape across AWS, Azure, and GCP.
 - **Documentation Templates**: Ready-to-use templates streamlining FedRAMP documentation, further accelerated through our Terraform kits.
 
-### Discover our RAMP/paks below:
+### Discover RAMP/pak® below:
 
-- [AWS RAMP/pak](https://github.com/Coalfire-CF/Coalfire-AWS-RAMPpak)
+- [AWS RAMP/pak®](https://github.com/Coalfire-CF/Coalfire-AWS-RAMPpak)
 
-- [Azure RAMP/pak](https://github.com/Coalfire-CF/Coalfire-Azure-RAMPpak)
+- [Azure RAMP/pak®](https://github.com/Coalfire-CF/Coalfire-Azure-RAMPpak)
 
-- [GCP RAMP/pak](https://github.com/Coalfire-CF/Coalfire-GCP-RAMPpak)
+- [GCP RAMP/pak®](https://github.com/Coalfire-CF/Coalfire-GCP-RAMPpak)
 
 ## Resources
 
@@ -44,3 +44,4 @@ RAMP/pak+ provides a user-friendly roadmap that includes a clear breakdown of yo
 The information, tools, and resources provided on this page are for general informational purposes only and are not intended as, and shall not be understood or construed as, professional advice, endorsement, or recommendations. While we strive to provide accurate, up-to-date content, Coalfire makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information provided. Any reliance you place on such information is therefore strictly at your own risk. Users are advised to seek their own legal or professional advice relevant to their individual circumstances.
 
 Coalfire does not warrant that the usage of any tools or templates will guarantee compliance or security outcomes, and all users are advised to ensure any solutions implemented align with their own risk profile and compliance requirements.
+RAMP/pak® is a registered trademark of Coalfire.
