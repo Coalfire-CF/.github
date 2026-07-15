@@ -1,0 +1,6 @@
+{
+  "name": "Coalfire: Dependabot Auto-Merge",
+  "description": "Gated auto-merge for Dependabot PRs via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": ["Automation"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Coalfire: Dependabot Refresh",
+  "description": "Auto-detect ecosystems and regenerate dependabot.yml on PRs",
+  "iconName": "octicon check-circle",
+  "categories": ["Automation"]
+}
