@@ -1,0 +1,6 @@
+{
+  "name": "Coalfire: Markdown Lint",
+  "description": "Lint changed markdown files on PRs via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": ["Automation"]
+}

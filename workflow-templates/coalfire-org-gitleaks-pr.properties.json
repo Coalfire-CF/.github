@@ -1,0 +1,6 @@
+{
+  "name": "Coalfire: Gitleaks PR Scan",
+  "description": "Secret detection on PR commits via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": ["Automation"]
+}

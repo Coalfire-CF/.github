@@ -1,0 +1,6 @@
+{
+  "name": "Coalfire: Org Release",
+  "description": "release-please releases on merge to the default branch via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": ["Automation"]
+}
