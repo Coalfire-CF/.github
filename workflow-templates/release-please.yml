@@ -1,0 +1,24 @@
+name: "Release: Release Please"
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  actions: read
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - $default-branch
+
+jobs:
+  create-release:
+    name: Create release
+    uses: Coalfire-CF/Actions/.github/workflows/release-please.yml@e63fdc45774e5963925b931238797256692cf040 # v1.2.0
+    # Immutable releases: assets upload to the draft, then this publishes it
+    # (needs "draft" and "force-tag-creation" in release-please-config.json).
+    with:
+      publish_draft: true
+    secrets: inherit

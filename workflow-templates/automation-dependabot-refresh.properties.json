@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Dependabot refresh",
+  "description": "Generates a grouped dependabot.yml for the repo on each PR",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Automation"
+  ]
+}

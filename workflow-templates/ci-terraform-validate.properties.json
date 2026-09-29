@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Terraform validate",
+  "description": "Run terraform validate on PRs via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Continuous integration"
+  ]
+}

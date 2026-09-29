@@ -1,0 +1,30 @@
+name: "CI: Terraform format"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  push:
+    branches:
+      - "**"
+    paths:
+      - "**.tf"
+      - "**.tfvars"
+      - "**.hcl"
+      - ".terraform.lock.hcl"
+  pull_request:
+    branches:
+      - "**"
+    paths:
+      - "**.tf"
+      - "**.tfvars"
+      - "**.hcl"
+      - ".terraform.lock.hcl"
+
+jobs:
+  terraform-format:
+    name: Check Terraform formatting
+    uses: Coalfire-CF/Actions/.github/workflows/ci-terraform-format.yml@e63fdc45774e5963925b931238797256692cf040 # v1.2.0
+    with:
+      terraform_version: "1.13.3"

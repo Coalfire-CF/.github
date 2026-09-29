@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Release Please",
+  "description": "Versioned releases and changelog via the org release-please workflow",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Automation"
+  ]
+}
