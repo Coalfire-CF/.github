@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Terraform format",
+  "description": "Check terraform fmt on pushes and PRs via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Continuous integration"
+  ]
+}

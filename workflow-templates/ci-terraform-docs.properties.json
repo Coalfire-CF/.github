@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Terraform docs",
+  "description": "Generate the Terraform module README on PRs via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Continuous integration"
+  ]
+}
