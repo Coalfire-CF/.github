@@ -1,0 +1,8 @@
+{
+  "name": "Coalfire: Security Govulncheck",
+  "description": "Scan a Go module for reachable vulnerabilities via the org reusable workflow",
+  "iconName": "octicon check-circle",
+  "categories": [
+    "Code scanning"
+  ]
+}
