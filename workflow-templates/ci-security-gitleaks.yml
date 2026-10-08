@@ -7,4 +7,4 @@ on:
 jobs:
   gitleaks:
     name: Run Gitleaks
-    uses: Coalfire-CF/Actions/.github/workflows/ci-security-gitleaks.yml@7471e346de7b74bcd66188d9a5009b1580db0950 # v1.4.0
+    uses: Coalfire-CF/Actions/.github/workflows/ci-security-gitleaks.yml@e833f409d1d1fd8014f3de1efd077785d3dae460 # v1.5.0
